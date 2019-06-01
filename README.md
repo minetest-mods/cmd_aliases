@@ -1,6 +1,6 @@
 # Minetest Aliases
 
-Written by rubenwardy, license: WTFPL
+Written by rubenwardy, license: MIT
 
 ## Usage
 
